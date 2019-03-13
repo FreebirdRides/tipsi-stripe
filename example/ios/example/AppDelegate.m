@@ -11,7 +11,9 @@
 
 #import <React/RCTBundleURLProvider.h>
 #import <React/RCTRootView.h>
-#import <Stripe/Stripe.h>
+// #import <Stripe/Stripe.h>
+
+@import Stripe;
 
 @implementation AppDelegate
 
