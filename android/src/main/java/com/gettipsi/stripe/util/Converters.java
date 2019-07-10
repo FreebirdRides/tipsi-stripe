@@ -1,7 +1,7 @@
 package com.gettipsi.stripe.util;
 
 import androidx.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.text.TextUtils;
 
 import com.facebook.react.bridge.Arguments;
